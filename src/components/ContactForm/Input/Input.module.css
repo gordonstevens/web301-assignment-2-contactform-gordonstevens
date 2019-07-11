@@ -1,0 +1,12 @@
+.inputlabel {
+   font-weight: 700;
+   display: block;
+   text-align: center;
+}
+
+.inputfield {
+   border: 1px solid rgba(33,33,33,0.35);
+   width: 256px;
+   margin-bottom: 19px;
+   padding: 9px;
+}

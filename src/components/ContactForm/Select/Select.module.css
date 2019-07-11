@@ -1,0 +1,12 @@
+.selectlabel {
+   font-weight: 700;
+   display: block;
+   text-align: center;
+}
+
+.selectoption {
+   font-weight: normal;
+   margin-bottom: 19px;
+   width: 256px;
+   padding: 9px;
+}

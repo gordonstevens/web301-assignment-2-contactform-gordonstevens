@@ -1,0 +1,21 @@
+.button {
+    padding: 10px 20px;
+    font-size: 19px;
+    border: 3px solid rgba(99,99,99,0.45);
+    border-radius: 4px;
+    margin: 2px;
+}
+
+.shadow {
+    box-shadow: 0 3px 3px rgba(33,33,33,0.80);
+}
+
+.themeRedWhite {
+    background: rgba(255,33,33,1.0);
+    color: rgba(255,255,255,1.0);
+}
+
+.themeRedGold {
+    background: rgba(255,33,33,1.0);
+    color: rgba(255,215,0,1.0);
+}

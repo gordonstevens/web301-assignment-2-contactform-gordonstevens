@@ -1,0 +1,12 @@
+.textarealabel {
+   font-weight: 700;
+   display: block;
+   text-align: center;
+}
+
+.textareafield {
+   font-weight: normal;
+   width: 256px;
+   padding: 9px;
+   margin-bottom: 19px;
+}
